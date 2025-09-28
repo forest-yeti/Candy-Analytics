@@ -10,3 +10,9 @@
 /.idea
 /.vscode
 ###< symfony/framework-bundle ###
+
+###> OSPanel ###
+.osp
+###< OSPanel ###
+
+.htaccess
